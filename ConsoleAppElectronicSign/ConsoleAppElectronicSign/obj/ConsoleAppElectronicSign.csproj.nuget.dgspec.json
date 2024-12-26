@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProveRepos\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj": {}
+    "C:\\ProveRepos\\ChangeDocumentFormat\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj": {}
   },
   "projects": {
-    "C:\\ProveRepos\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj": {
+    "C:\\ProveRepos\\ChangeDocumentFormat\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProveRepos\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj",
+        "projectUniqueName": "C:\\ProveRepos\\ChangeDocumentFormat\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj",
         "projectName": "ConsoleAppElectronicSign",
-        "projectPath": "C:\\ProveRepos\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj",
-        "packagesPath": "C:\\Users\\VitoPerrotta\\.nuget\\packages\\",
-        "outputPath": "C:\\ProveRepos\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\obj\\",
+        "projectPath": "C:\\ProveRepos\\ChangeDocumentFormat\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "C:\\ProveRepos\\ChangeDocumentFormat\\ConsoleAppElectronicSign\\ConsoleAppElectronicSign\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\VitoPerrotta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
